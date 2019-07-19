@@ -3,4 +3,8 @@ Trailhead practice - Git &amp; Git Hub basics - https://trailhead.salesforce.com
 
 Ashok doing this module again on 19th July as  part of DX explore
 
+adding new lines for new-branch-2
+adding new lines for new-branch-2
 adding text for new-branch-1
+adding new lines for new-branch-2
+adding new lines for new-branch-2
